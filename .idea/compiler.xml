@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="DigiOneBank" target="1.5" />
+      <module name="DigiOneBank" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
